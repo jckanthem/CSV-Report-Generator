@@ -6,4 +6,4 @@ Clone the repo and run the following:
 npm install
 npm start
 ```
-Then open localhost:3000 in your browser
+Then open [localhost:3000](localhost:3000) in your browser
